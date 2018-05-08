@@ -1,8 +1,13 @@
 {
-    "name": "nombre",
-    "version": "1,00",
-    "license": "MIT",
-    "scripts": {
-        "start": "node server.js"
-    }
+  "name": "nombre",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
 }
