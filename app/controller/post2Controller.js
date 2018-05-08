@@ -7,7 +7,7 @@ exports.test = function (req, res) {
         'color': 'Verde'
     }
 
-    obj['comuna'] = 'Viña del Mar';
+    obj['comuna'] = 'Valparaiso';
     
     res.status(200).send(obj);
 }
